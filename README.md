@@ -37,7 +37,7 @@ The live preview will update in real time as changes are found in your files.
 
 ## License
 
-RE: TWO-TORIAL is licensed under the GNU General Public License v3.0. You can find the full text of the license in the [LICENSE](LICENSE) file.
+RE: TWO-TORIAL is licensed under the Apache License Version 2.0. You can find the full text of the license in the [LICENSE](LICENSE) file.
 
 ## Additional Notes
 
